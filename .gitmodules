@@ -1,0 +1,6 @@
+[submodule "Source/MCS"]
+	path = Source/MCS
+	url = https://github.com/AliJimpa/MCS.git
+[submodule "Source/imgui"]
+	path = Source/imgui
+	url = https://github.com/ocornut/imgui.git
